@@ -12,6 +12,8 @@
 #include <dt-bindings/zmk/reset.h>
 #include <dt-bindings/zmk/ext_power.h>
 
+// comment to trigger build
+
 / {
 	keymap {
 		compatible = "zmk,keymap";
